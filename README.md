@@ -19,7 +19,7 @@ Latest release (versioned): https://github.com/hichem2216/SecShare/releases/
 - **Serverless (TCP-only)** — Peer-to-peer direct transfers over TCP (no central server required). 
 
 ## Screenshots
-(link to `/assets/screenshots/...`)
+ `/assets/...`
 
 ## Security / Verification
 - SHA256 checksums published in each release and in `CHECKSUMS-<version>.txt`.
