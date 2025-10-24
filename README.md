@@ -41,8 +41,8 @@ Latest release (versioned): https://github.com/hichem2216/SecShare/releases/
 If GPG shows a “Good signature” message and the checksum matches,
 your downloaded file is authentic and safe to use.
 
-## 📄 License
+##  License
 Released under the MIT License — see [LICENSE](LICENSE) for details.
 
-## 📬 Contact
-Created by **Hichem Cherifi** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/hichem-cherifi-5384361bb/).
+##  Contact
+Created by **Hichem Cherifi** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/hichem-cherifi-5384361bb/) and [email](mailto:hichem.dz222002@gmail.com).
