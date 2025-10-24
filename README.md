@@ -4,11 +4,14 @@
 ## About
 SecShare lets you securely share files between two computers using end-to-end encryption over a direct TCP (peer-to-peer) connection — no server required.
 
+## ⚙️ Tech Stack
+C# • .NET • Socket Programming • Cryptography • Multi-threading • TCP
+
 ## Download
 Latest release (versioned): https://github.com/hichem2216/SecShare/releases/
 
 ## Installation
-1. Download `SecShare-<version>_installation.exe` (or `.zip`, `.dmg`, etc.)
+1. Download `SecShare-<version>_installation.exe` 
 2. Verify checksum and signature (see **Security** below).
 3. Run installer / unpack archive.
 
