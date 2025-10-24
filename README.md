@@ -45,4 +45,4 @@ your downloaded file is authentic and safe to use.
 Released under the MIT License — see [LICENSE](LICENSE) for details.
 
 ## 📬 Contact
-Created by **Hichem Chr** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/hichem-cherifi-5384361bb/).
+Created by **Hichem Cherifi** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/hichem-cherifi-5384361bb/).
