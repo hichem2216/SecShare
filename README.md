@@ -16,9 +16,11 @@ C# • .NET • Socket Programming • Cryptography • Multi-threading • TCP
 Latest release (versioned): https://github.com/hichem2216/SecShare/releases/
 
 ## Installation
-1. Download `SecShare-<version>_installation.exe` 
-2. Verify checksum and signature (see **Security** below).
-3. Run installer / unpack archive.
+1. Download the latest release: [SecShare Releases](https://github.com/hichem2216/SecShare/releases)
+2. Verify integrity:
+   ```bash
+   sha256sum SecShare-<version>_installation.exe
+   gpg --verify SecShare-<version>.sig
 
 ## Features
 - **E2EE (ECC → AES)** — Ephemeral Elliptic-Curve Diffie–Hellman for key agreement, then symmetric encryption (AES-GCM) for payload confidentiality and integrity.
