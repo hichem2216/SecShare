@@ -40,3 +40,9 @@ Latest release (versioned): https://github.com/hichem2216/SecShare/releases/
   gpg --verify SecShare-<version>.sig SecShare-<version>-win-x64.exe# SecShare
 If GPG shows a “Good signature” message and the checksum matches,
 your downloaded file is authentic and safe to use.
+
+## 📄 License
+Released under the MIT License — see [LICENSE](LICENSE) for details.
+
+## 📬 Contact
+Created by **Hichem Chr** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/hichem-cherifi-5384361bb/).
